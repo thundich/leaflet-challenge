@@ -26,7 +26,7 @@ Tamara Hundich
     -  https://gis.stackexchange.com/questions/133630/adding-leaflet-legend
 
 ## Limitations
-    - One of the limitations of this assignment was some of the magnitudes provided were coming back with a negative magnitude. Upon researching the magnitude scale, magnitudes cannot be a negative value. In order to resolve the negative numbers, a scaler was used. This allowed to obtain a proper scale on the map.   
+- One of the limitations of this assignment was some of the magnitudes provided were coming back with a negative magnitude. Upon researching the magnitude scale, magnitudes cannot be a negative value. In order to resolve the negative numbers, a scaler was used. This allowed to obtain a proper scale on the map.   
                 
 ## Installation and Configuration 	
 - Files included with repository include the README, Images provided with files, style CSS, logic.JS 
